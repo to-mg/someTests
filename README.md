@@ -1,2 +1,2 @@
 # someTests
-prove varie
+Where I put miscellaneous infos and tests to be shared
